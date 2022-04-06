@@ -1,2 +1,2 @@
 # moises
-pushing and pulling
+tyler pushing and moises pulling 
