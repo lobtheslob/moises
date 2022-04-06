@@ -1,2 +1,2 @@
 # moises
-tyler pushing and {out your name here} pulling
+tyler pushing and moises pulling 
